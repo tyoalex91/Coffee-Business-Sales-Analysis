@@ -1,2 +1,3 @@
 # Coffee-Business-Sales-Analysis
-Expose various aspects of a Coffee Sales Business operations, based on orders over different coffee types and categories. This provides valuable insights into the sales domain and enable analysis and decsion-making to increase sales over time, a better market segmentation and customer classification.
+# Executive Summary
+The Coffee Sales spreadsheet comprises multiple datasets related to various aspects of a coffee sales business operations. Using formulas and functions , main dataset was conformed to offer a comprehensive view of sales behavior on demanded products based on different coffee types and categories. Pivot tables and charts, slicers, a timeline and a dashboard components were used over the dataset to provide valuable insights into the sales domain and enable analysis and decsion-making to increase sales over time, a better market segmentation and customer classification. 
