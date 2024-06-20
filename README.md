@@ -20,7 +20,7 @@ Fig 1: Sales behavior under the loyalty program
 4.	Communicate the results and determine the best areas of opportunity 
 
 # Results and Business Recommendations
-Creating a dashboard to track coffee product sales gives stakeholders a perspective of the business performance, based on the key sales metric: Total sales by coffee types, units sold, and top-selling products. Sales behavior was shown as a line chart, displaying trends over time. A timeline visual component was included to compare periods better and expose how sales are performing compared to previous periods. This characteristic includes month-over-month and year-over-year comparisons.
+Creating a dashboard to track coffee product sales gives stakeholders a perspective of the business performance, based on the key sales metric: Total sales by coffee types. Sales behavior was shown as a line chart, displaying trends over time. A timeline visual component was included to compare periods better and expose how sales are performing compared to previous periods. This characteristic includes month-over-month and year-over-year comparisons.
 A regional performance can be analyzed in the dashboard through a bar chart that shows how sales are distributed by country, guiding sales stakeholders to identify the areas of strength and new opportunities. This chart type was also used to show market segmentation, based on the top 5 customers that provide the highest revenues to the business delimited by country. Stakeholders can benefit from this, having a better understanding of their customer base.
 
 The analysis derived that:
